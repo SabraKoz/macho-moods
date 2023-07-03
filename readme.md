@@ -9,7 +9,9 @@
 <img src="./assets/MachoManSavage.jpeg" width="500px" align="right" />
 People deal with a variety of emotions every day, including wrestling fans. Macho Man, Randy Savage, realizes this has taken an interest in mental health. He believes he can encourage and uplift his fan base through a multitude of emotions and feelings with his famous quotes. He’s hired you - a team of macho developers - to build this self help site to encourage those going through big emotions. 
 
-He has some very specific design requirements in mind, which surprised you because you didn’t expect a professional wrestler to know or care anything about UI/UX design. This is what Mr. Savage is asking you to build: 
+He has some very specific design requirements in mind, which surprised you because you didn’t expect a professional wrestler to know or care anything about UI/UX design. 
+
+### This is what Mr. Savage is asking you to build: 
 
 > At the top of the page should be the name of the motivational site, “Macho Moods”, centered on the page. Beneath the title should be a prompt, “How are you feeling today?”
 >
