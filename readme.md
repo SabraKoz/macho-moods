@@ -6,7 +6,7 @@
 
 ## "There are no tough guys in wrestling!"
 
-<img src="./assets/MachoManSavage.jpeg" width="500px" align="right" />
+<img src="./assets/MachoManSavage.jpeg" width="505px" align="right" />
 People deal with a variety of emotions every day, including wrestling fans. Macho Man, Randy Savage, realizes this has taken an interest in mental health. He believes he can encourage and uplift his fan base through a multitude of emotions and feelings with his famous quotes. He’s hired you - a team of macho developers - to build this self help site to encourage those going through big emotions. 
 
 He has some very specific design requirements in mind, which surprised you because you didn’t expect a professional wrestler to know or care anything about UI/UX design. This is what Mr. Savage is asking you to build: 
