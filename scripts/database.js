@@ -90,3 +90,7 @@ const database = [
         ]
     }
 ];
+
+export const moodsData = () => {
+    return structuredClone(database)
+};
