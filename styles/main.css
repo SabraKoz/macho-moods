@@ -1,0 +1,90 @@
+body {
+    background: hotpink;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.header {
+    justify-items: center;
+}
+
+.second-header{
+    justify-items: center;
+}
+
+.title {
+    margin: 20px;
+    padding: 20px 200px;
+    font-size: 35px;
+    color: yellow;
+    text-shadow: 2px 2px 2px blue;
+    background: red;
+    border: 3px solid blue;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px blue;
+}
+
+.second-title {
+    margin: 20px;
+    padding: 10px 50px;
+    color: hotpink;
+    text-shadow: 1px 1px 2px purple;
+    border: 3px solid cyan;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px cyan;
+    background: blue;
+}
+
+.mood-img {
+    max-width: 350px;
+    border: 3px solid yellow;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px yellow;
+}
+
+.mood-title {
+    text-align: center;
+    text-shadow: 0 0 8px purple;
+    padding: 15px;
+}
+
+.mood-name {
+    color: orange;
+    background: purple;
+    border-radius: 10px;
+    border: 3px solid lightgreen;
+    box-shadow: 2px 2px 5px lightgreen;
+    margin: 15px;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+.all-moods {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.mood-box {
+    border: 3px solid purple;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px purple;
+    background: lightgreen;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+    color: red;
+}
+
+.advice {
+    text-align: left;
+    padding: 20px;
+}
+
+.quotes {
+    text-align: left;
+    padding: 20px;
+}

@@ -5,7 +5,7 @@ const database = [
         imageUrl: 'assets/uncomfortable.jpeg',
         text: "Unjustifiably in a position I'd rather not be in",
         quotes: [
-            "Follow the decisions and thoughts of your heart.", 
+            "Follow the decisions and thoughts of your heart.",
             "Sometimes all an annoying person needs is a punch in the face."
         ]
     },
